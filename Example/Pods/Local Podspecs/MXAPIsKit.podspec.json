@@ -1,0 +1,27 @@
+{
+  "name": "MXAPIsKit",
+  "version": "1",
+  "summary": "A short description of MXAPIsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jaccty/MXAPIsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "848941531@qq.com": "848941531@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jaccty/MXAPIsKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MXAPIsKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
