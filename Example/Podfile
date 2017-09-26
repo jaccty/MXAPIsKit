@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MXAPIsKit_Example' do
+  pod 'MXAPIsKit', :path => '../'
+
+  target 'MXAPIsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
